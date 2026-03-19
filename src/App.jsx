@@ -11,6 +11,8 @@ function App() {
       <main className="main-content">
         <h2>Featured Products</h2>
         <ProductList products={products} />
+        <p>Ready for assignment review!</p>
+
       </main>
     </div>
   );
